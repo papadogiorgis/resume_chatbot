@@ -1,0 +1,24 @@
+{
+  "name": "resume_chatbot",
+  "version": "1.0.0",
+  "description": "Resume Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papadogiorgis/resume_chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papadogiorgis/resume_chatbot/issues"
+  },
+  "homepage": "https://github.com/papadogiorgis/resume_chatbot#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
