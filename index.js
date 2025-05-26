@@ -3,14 +3,10 @@
 
 const express = require('express');
 const cors = require('cors');
+const responses = require('./responses.json');
 const app = express();
 app.use(cors());
 app.use(express.json());
-const responses = [
-    { keywords: ["about yourself", "who are you"],
-      response: "Hello! I'm Georgios Papadakis, a computer science student, passionate about building web applications and AI."
-    }
-];
 
 app.post('/chat', (req, res) => {
     const userPrompt = req.body.prompt.toLowerCase();

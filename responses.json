@@ -1,0 +1,32 @@
+[
+    { "keywords": ["about yourself", "who are you"],
+      "response": "Hello! I'm Georgios Papadakis, a computer science student, passionate about building web applications and AI."
+    },
+    { "keywords": ["projects", "worked on"],
+      "response": "Some of the projects I have developed are: a 2-player board game, a ticket reservation system (database) and a movie streaming platform. I have also developed AI agents for autonomous navigation and survival in the Pac-Man environment."
+    },
+    { "keywords": ["skills", "expertise"],
+      "response": "I'm skilled in C, C++, Python, Java, SQL, Assembly, Matlab, HTML, Javascript and CSS."
+    },
+    { "keywords": ["study", "education"],
+      "response": "I study Computer Science at the University of Crete (since 2021)."
+    },
+    { "keywords": ["hobbies", "interests"],
+      "response": "I enjoy swimming, working out and reading philosophy books."
+    },
+    { "keywords": ["SuperLeague", "Champions League", "football team", "Bundesliga", "football"],
+      "response": "I support Olympiacos F.C. in the Greek SuperLeague and Borussia Dortmund in Bundesliga!"
+    },
+    { "keywords": ["volunteer", "volunteering"],
+      "response": "I am member of a student Cybersecurity Group (Daedalus). I attend sessions on Capture the Flag (CTF) concepts and fundamental cybersecurity topics."
+    },
+    { "keywords": ["high school", "lyceum"],
+      "response": "I graduated from Model General Lyceum of Heraklion."
+    },
+    { "keywords": ["languages", "native language"],
+      "response": "I know Greek (native speaker) and English (C2 - Michigan State University, December 2017, Score: 78/100)."
+    },
+    { "keywords": ["soft skills", "personal attributes", "strengths"],
+      "response": "My soft skills are: Teamwork | Communication | Consistency | Work Ethic"
+    }
+]
