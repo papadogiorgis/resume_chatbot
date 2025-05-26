@@ -6,10 +6,10 @@ A simple AI-like chatbot web application that responds to user prompts related t
 
 ## Technologies Used
 
--**Frontend**: React + TailwindCSS
--**Backend**: Node.js + Express
--**Data**: JSON file with keyword-to-response mappings
--**Tools**: Git
+- **Frontend**: React + TailwindCSS
+- **Backend**: Node.js + Express
+- **Data**: JSON file with keyword-to-response mappings
+- **Tools**: Git
 
 ---
 
