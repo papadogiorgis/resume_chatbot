@@ -45,7 +45,7 @@ A simple AI-like chatbot web application that responds to user prompts related t
 6. "Have you done any volunteering?"
 7. "Which high school did you graduate from?"
 8. "What languages do you speak?"
-9. "What are your soft skills?"
+9. "What are your personal attributes?"
 10. "What football team do you support?"
 
 ## License & Usage Notice
