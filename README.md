@@ -29,7 +29,7 @@ A simple AI-like chatbot web application that responds to user prompts related t
 3. npm install
 4. node index.js (The Backend: it will run on http://localhost:3000)
 5. **IN A NEW TERMINAL:**
-6. cd cvchatbot-frontend/
+6. cd resume_chatbot/cvchatbot-frontend/
 7. npm install
 8. npm start (The Frontend: it will open at http://localhost:3001)
 
